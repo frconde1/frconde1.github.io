@@ -6,7 +6,7 @@ layout: default
 
 Dificultad: Fácil 
 
-Host: Windows 
+Host: Linux 
 
 ## Scan Nmap 
 
